@@ -57,7 +57,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=AlamNawazSha)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=AlamNawazSha)
 
 ---
 
