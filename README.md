@@ -13,7 +13,9 @@
 
 ## 🛠️ Tech Stack
 💻 Languages:
--  • Programming & Databases : Python , MySQL                                                                                                  -  • Data Visualization : Power BI , Matplotlib , Seaborn                                                                                      -  • Machine Learning : Scikit-Learn , Regression , Classification , Forecasting
+-  • Programming & Databases : Python , MySQL                                                                                       \
+-  • Data Visualization : Power BI , Matplotlib , Seaborn
+-  • Machine Learning : Scikit-Learn , Regression , Classification , Forecasting
 -  • Tools : Excel , Jupyter Notebook, Google Colab ,
 -  • Other : Data Cleaning , Feature Engineering ,EDA      
 --- 
