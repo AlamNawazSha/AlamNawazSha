@@ -12,6 +12,7 @@
 ---
 
 ## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,androidstudio" />
 💻 Languages:
 -  • Programming & Databases : Python , MySQL                                                                                       \
 -  • Data Visualization : Power BI , Matplotlib , Seaborn
@@ -51,6 +52,10 @@
 
 ## 🔥 Streak Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlamNawazSha&theme=radical)
+
+![Visitors](https://komarev.com/ghpvc/?username=AlamNawazSha)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AlamNawazSha)
 
 ---
 
