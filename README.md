@@ -14,11 +14,11 @@
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=python,r,anaconda,sklearn,tensorflow,pytorch" />
 💻 Languages:
-- • Programming & Databases : Python , MySQL
-- • Data Visualization : Power BI , Matplotlib , Seaborn
-- • Machine Learning : Scikit-Learn , Regression , Classification , Forecasting
-- • Tools : Excel , Jupyter Notebook, Google Colab ,
-- • Other : Data Cleaning , Feature Engineering ,EDA
+• Programming & Databases : Python , MySQL
+• Data Visualization : Power BI , Matplotlib , Seaborn
+• Machine Learning : Scikit-Learn , Regression , Classification , Forecasting
+• Tools : Excel , Jupyter Notebook, Google Colab ,
+• Other : Data Cleaning , Feature Engineering ,EDA
 
 
   
