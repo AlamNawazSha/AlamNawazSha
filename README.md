@@ -18,7 +18,10 @@
 -  • Data Visualization : Power BI , Matplotlib , Seaborn
 -  • Machine Learning : Scikit-Learn , Regression , Classification , Forecasting
 -  • Tools : Excel , Jupyter Notebook, Google Colab ,
--  • Other : Data Cleaning , Feature Engineering ,EDA      
+-  • Other : Data Cleaning , Feature Engineering ,EDA
+
+
+  
 --- 
 
 ## 🔥 Projects
