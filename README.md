@@ -13,8 +13,6 @@
 
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=python,r,anaconda,sklearn,tensorflow,pytorch" />
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" /> 
-<img src="https://skillicons.dev/iconsi=jupyter,vscode,git,github,linux" />
 -💻 Languages:
 -  • Programming & Databases : Python , MySQL                                                                                       \
 -  • Data Visualization : Power BI , Matplotlib , Seaborn
