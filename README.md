@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 MCA Student  
 - 💡 Passionate about building real-world applications    
-- 🚀 Goal: 12 LPA Software Developer  
+- 🚀 Goal: 12 LPA  
 
 ---
 
